@@ -1,0 +1,18 @@
+.centrar {
+    text-align: center;
+    justify-content: space-between;
+}
+
+.letraTipoProducto {
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-right: 60px;
+    font-family: "Open Sans", cursive;
+    font-weight: bold;
+    font-size: 3rem;
+    font-weight: 500;
+    line-height: 1.4rem;
+    text-shadow: 0 0 10px #e68b41;
+    color: #206dd1;
+}

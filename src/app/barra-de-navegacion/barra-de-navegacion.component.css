@@ -1,10 +1,13 @@
-header{
+nav {
     position: sticky;
     top: 0;
     z-index: 1;
- 
-  }
-  
-  
-  .gradient {
-      background-image: linear-gradient(rgb(7, 7, 7), #2c2e2d); }
+}
+.gradient {
+    background-image: linear-gradient(rgb(7, 7, 7), #2c2e2d);
+}
+ul {
+    justify-content: end;
+    text-align: end;
+    display: flex;
+}
